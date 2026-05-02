@@ -1,0 +1,10 @@
+{
+  "123456789-123456@g.us": {
+    "bank": 5000,
+    "members": {
+      "user1@s.whatsapp.net": 1000,
+      "user2@s.whatsapp.net": 500
+    },
+    "createdAt": "2024-01-15T10:30:00.000Z"
+  }
+}
